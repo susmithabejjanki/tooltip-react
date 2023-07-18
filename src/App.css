@@ -1,0 +1,32 @@
+/* css for body */
+body {
+  background: rgba(19, 8, 29, 0.274);
+}
+
+/* css for app component */
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+/* css for button in button component */
+.button {
+  cursor: pointer;
+  background: rgb(27, 14, 53);
+  color: rgba(244, 240, 245, 0.5);
+  /* border: none; */
+  border-radius: 10px;
+  /* border-bottom: dashed 2px gray; */
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 10px;
+}
+.button:hover {
+  background: rgb(24, 23, 23);
+  color: rgb(69, 91, 156);
+}
+
+/* css for h2 heading */
+h1 {
+  color: rgba(49, 0, 139, 0.829);
+}
